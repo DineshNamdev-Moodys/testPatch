@@ -1,0 +1,12 @@
+JDK Patch:
+https://github.com/DineshNamdev-Moodys/testPatch/raw/main/jdk-11.0.20_windows-x64_bin.exe?download=
+
+JRE Patch
+https://github.com/DineshNamdev-Moodys/testPatch/raw/main/jre-8u391-windows-i586.exe?download=
+https://github.com/DineshNamdev-Moodys/testPatch/raw/main/jre-8u391-windows-x64.exe?download=
+
+FileZilla X32:
+https://github.com/DineshNamdev-Moodys/testPatch/raw/main/FileZilla_3.65.0_win32-setup.exe?download=
+
+FileZilla X64:
+https://github.com/DineshNamdev-Moodys/testPatch/raw/main/FileZilla_3.65.0_win64-setup.exe?download=
